@@ -26,3 +26,4 @@ readme.pdf
 !/modules/pluggableGeometryExample
 !/modules/simdGeometryExample
 Session.vim
+nimcache
